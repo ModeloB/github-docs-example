@@ -2,6 +2,8 @@
 
 ##Step 1 - Using Codeblocks.
 
+![Photo of a Eyeballs](assets/EYE BALS.gif)
+
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code. A good Cloud Engineer uses Codeblock whenever possible.
 
 Because it allow others to copy and paste their code to replicate or research issues.
@@ -83,7 +85,8 @@ You can use following format to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#references)
 
-![River](https://github.com/user-attachments/assets/40584c3c-669d-4e6f-a4a8-d0f64de06a50)
+![Photo of a River and Tree](assets/River.gif)
+
 
 
 ## References
