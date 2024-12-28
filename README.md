@@ -2,7 +2,7 @@
 
 ##Step 1 - Using Codeblocks.
 
-![Photo of a Eyeballs](assets/EYE BALS.gif)
+![Photo of a Eyeballs](assets/EYEBALS.gif)
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code. A good Cloud Engineer uses Codeblock whenever possible.
 
