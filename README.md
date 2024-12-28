@@ -1,6 +1,6 @@
 # Writing Good Documentation
 
-## Step 1 - Using Codeblocks.
+##Step 1 - Using Codeblocks.
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code. A good Cloud Engineer uses Codeblock whenever possible.
 
@@ -58,13 +58,38 @@ ZeroDivisionError: division by zero
 >Here is an example of using a codeblock for an error that appears in bash
 
 
-## Step 3 - Use Github Flavored Markdown Task Lists
+# Step 3 - Use Github Flavored Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items. <sup>[1]</sup>
+Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#references)
+- [x] Finish Step 1
+- [x] Finish Step 2
+- [x] Finish Step 3
+
+# Step 4 - Use Emojis (Optional)
+
+GitHub Flavored Markdown (GFM) supports emoji shortcodes.
+Here are some examples:
+
+# Step 5 How to create a table
+
+
+You can use following format to create tables:
+
+```markdown
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Scorpions | `:scorpion:` | :scorpion:|
+| Scorpius | `:scorpius:` | ♏ |
+```
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#references)
+
+![River](https://github.com/user-attachments/assets/40584c3c-669d-4e6f-a4a8-d0f64de06a50)
+
 
 ## References
 
-- [Basic writing and formatting syntax, Links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+- [GitHub Flavored Markdown Spec](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 - [Autolinked references and URLs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls)
 - [GFM - Tasks Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
-
+- [GFM - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+- [GFM - Tables (with extentions)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
