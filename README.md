@@ -41,3 +41,30 @@ person.have_birthday
 
 
 <img width="200" src="https://github.com/user-attachments/assets/d65fee0c-14e8-4592-accf-87b48bfab359" />
+
+
+Good Cloud Engineers use codeblocks for both code ans errors that appear in the console.
+
+
+```bash
+Traceback (most recent call last):
+  File "script.py", line 7, in <module>
+    result = divide_numbers(10, 0)
+  File "script.py", line 3, in divide_numbers
+    return a / b
+ZeroDivisionError: division by zero
+```
+
+>Here is an example of using a codeblock for an error that appears in bash
+
+
+## Step 3 - Use Github Flavored Markdown Task Lists
+
+Github extends Markdown to have a list where you can check off items. <sup>[1]</sup>
+
+## References
+
+- [Basic writing and formatting syntax, Links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+- [Autolinked references and URLs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls)
+- [GFM - Tasks Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
+
