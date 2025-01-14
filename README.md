@@ -8,7 +8,7 @@ Codeblocks in markdown make it *very easy* for tech people to **copy, paste, sha
 
 Because it allow others to copy and paste their code to replicate or research issues.
 
--In order to create codeblocks in markdown you need to use three backticks ```
+- In order to create codeblocks in markdown you need to use three backticks ```
 - Not to be confused with the single quotation '''
 ```ruby
 # Define a class named 'Person'
